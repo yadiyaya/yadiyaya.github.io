@@ -70,3 +70,5 @@
     <p>&copy; 2025 Mercado Online | Todos os direitos reservados</p>
   </footer>
   
+
+  ssssssssss
