@@ -1,1 +1,1 @@
-sdfghjklç
+zxcvbnm,.;sdfghjklç
