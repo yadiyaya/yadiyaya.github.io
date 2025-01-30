@@ -69,4 +69,4 @@
       <a href="/informacoes">Informações da Loja</a>
     </div>
   </div>
-  
+  a
