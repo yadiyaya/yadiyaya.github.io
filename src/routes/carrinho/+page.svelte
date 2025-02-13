@@ -141,4 +141,4 @@
   
     <button class="botao-finalizar" on:click={finalizarCompra}>Finalizar Compra</button>
   </div>
-  
+  a
